@@ -325,10 +325,9 @@ img{
     }
     #clock{
         font-size: 70px;
-       
     }
     ul>button{
-        padding-left: 0px;
+        text-align: center;
     }
 }
 
