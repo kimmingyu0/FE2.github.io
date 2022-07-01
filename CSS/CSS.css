@@ -306,7 +306,7 @@ img{
     }
     #login-form input::placeholder {font-size: 16px; font-weight:0;}
     #login-form button{
-        width :35px;
+        width :28px;
         height: 32px;
         font-size: 10px;
         margin-left: 2px;
