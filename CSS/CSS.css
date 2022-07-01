@@ -16,7 +16,6 @@
 body{
     margin: 0px;
 
-
     padding:
     env(safe-area-inset-top)
     env(safe-area-inset-right)
@@ -332,6 +331,7 @@ img{
     }
     #greeting{   
         font-size:22px;
+        top:13%;
     }
     #clock{
         font-size: 70px;
