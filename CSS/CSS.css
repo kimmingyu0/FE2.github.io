@@ -329,6 +329,7 @@ img{
     }
     li>button{
         text-align: center;
+        right: 5%;
     }
 }
 
