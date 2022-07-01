@@ -312,6 +312,10 @@ img{
         margin-left: 2px;
         /* font-weight:700; */
     }
+    #clock{
+        font-size: 70px;
+        
+    }
     #greeting{   
         font-size:22px;
     }
