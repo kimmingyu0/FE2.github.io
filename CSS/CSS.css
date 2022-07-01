@@ -131,9 +131,12 @@ input:focus {outline: none;}
     height: 22px;
     font-size: 14px;
     font-weight: 800;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-right: 5px;
     margin-left: 5px;
+    padding: 0%;
     
 }
 
@@ -298,7 +301,6 @@ img{
 }
 
 @media screen and (max-width:480px){
-
     #login-form input{
         width: 126px;
         font-size: 12px;
@@ -326,9 +328,6 @@ img{
     }
     #clock{
         font-size: 70px;
-    }
-    li>button{
-        
     }
 }
 
