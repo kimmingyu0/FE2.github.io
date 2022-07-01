@@ -312,8 +312,19 @@ img{
         margin-left: 2px;
         /* font-weight:700; */
     }
+    #todo-list{
+        top: 42%;
+        left: 50%; 
+        transform: translateX(-50%);
+        height: 200px;     
+        text-align: center; 
+    }
     #greeting{   
         font-size:22px;
+    }
+    #clock{
+        font-size: 70px;
+        
     }
 }
 
