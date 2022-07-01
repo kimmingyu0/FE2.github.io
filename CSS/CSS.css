@@ -304,11 +304,11 @@ img{
         font-size: 24px;
         padding-left: 0px;
     }
-    #login-form input::placeholder {font-size: 16px; font-weight:0;}
+    #login-form input::placeholder {font-size: 14px; font-weight:0;}
     #login-form button{
         width :32px;
         height: 32px;
-        font-size: 12px;
+        font-size: 10px;
         margin-left: 2px;
         /* font-weight:700; */
     }
