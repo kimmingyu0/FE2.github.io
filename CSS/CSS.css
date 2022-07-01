@@ -138,10 +138,9 @@ input:focus {outline: none;}
     font-size: 14px;
     font-weight: 800;
     display: flex;
-    justify-content: center;
-    align-items: center;
+
     margin-right: 5px;
-    margin-left: 5px;
+    margin-left: 2px;
     padding: 0%;
     
 }
