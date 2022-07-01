@@ -312,6 +312,16 @@ img{
         /* margin-left: 2px; */
         /* font-weight:700; */
     }
+    #todo-list{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 50%;
+        left: 50%; 
+        transform: translateX(-50%);
+        height: 200px;     
+        text-align: center; 
+    }
     #clock{
         font-size: 70px;
         
