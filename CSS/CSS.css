@@ -301,10 +301,10 @@ img{
 
     #login-form input{
         width: 136px;
-        font-size: 24px;
+        font-size: 16px;
         padding-left: 0px;
     }
-    #login-form input::placeholder {font-size: 16px; font-weight:0;}
+    #login-form input::placeholder {font-size: 12px; font-weight:0;}
     #login-form button{
         width :30px;
         height: 32px;
