@@ -307,8 +307,8 @@ img{
     }
     #login-form input::placeholder {font-size: 16px; }
     #login-form button{
-        width :36px;
-        height: 32px;
+        width :32px;
+        height: 30px;
         font-size: 8px;
         margin-left: 2px;
         /* font-weight:700; */
@@ -317,7 +317,7 @@ img{
         top: 42%;
         left: 50%; 
         transform: translateX(-50%);
-        height: 200px;     
+        height: 230px;     
         text-align: center; 
     }
     #greeting{   
