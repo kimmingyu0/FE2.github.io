@@ -317,7 +317,8 @@ img{
         top: 42%;
         left: 50%; 
         transform: translateX(-50%);
-        height: 230px;     
+        height: 230px;
+        width: 60%;     
         text-align: center; 
     }
     #greeting{   
