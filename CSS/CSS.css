@@ -300,31 +300,17 @@ img{
 @media screen and (max-width:480px){
 
     #login-form input{
-        width: 130px;
+        width: 136px;
         font-size: 24px;
         padding-left: 0px;
     }
-    #login-form input::placeholder {font-size: 12px; font-weight:0;}
+    #login-form input::placeholder {font-size: 16px; font-weight:0;}
     #login-form button{
-        width :32px;
+        width :50px;
         height: 32px;
-        font-size: 10px;
-        /* margin-left: 2px; */
+        font-size: 13px;
+        margin-left: 2px;
         /* font-weight:700; */
-    }
-    #todo-list{
-        display: flex;
-        flex-direction: column;
-        position: absolute;
-        top: 50%;
-        left: 50%; 
-        transform: translateX(-50%);
-        height: 200px;     
-        text-align: center; 
-    }
-    #clock{
-        font-size: 70px;
-        
     }
     #greeting{   
         font-size:22px;
