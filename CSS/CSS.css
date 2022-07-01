@@ -123,12 +123,12 @@ input:focus {outline: none;}
     background-color: rgba(128, 128, 128, 0.486);
 }
 
-li button{
+#todo-list li button{
     border: 0px solid white;
     background-color: rgba(255, 255, 255, 0.514);
-    border-radius: 15px;
+    border-radius: 50%;
     width: 30px;
-    height: 22px;
+    height: 30px;
     font-size: 14px;
     font-weight: 800;
     text-align: center;
@@ -328,8 +328,7 @@ img{
         font-size: 70px;
     }
     li>button{
-        text-align: center;
-        right: 5%;
+        
     }
 }
 
