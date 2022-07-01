@@ -302,7 +302,8 @@ img{
     #login-form input{
         width: 136px;
         font-size: 12px;
-        padding-left: 0px;
+        padding-bottom: 0px;
+        text-align: center;
     }
     #login-form input::placeholder {font-size: 12px; font-weight:0;}
     #login-form button{
