@@ -139,7 +139,7 @@ input:focus {outline: none;}
     font-weight: 800;
     display: flex;
 
-    margin-right: 5px;
+    margin-right: 2px;
     margin-left: 2px;
     padding: 0%;
     
@@ -330,7 +330,7 @@ img{
     }
     #greeting{   
         font-size:22px;
-        top:13%;
+        top:14%;
     }
     #clock{
         font-size: 70px;
